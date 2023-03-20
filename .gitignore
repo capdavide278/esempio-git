@@ -1,0 +1,7 @@
+#cartelle
+temp
+
+#file
+*.log
+
+#il punto esclamativo indica le eccezioni
